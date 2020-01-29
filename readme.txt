@@ -1,10 +1,3 @@
-
-============================ Project ==============================
-Akshay Joshi
-Ege Cetintas
-Rohan Dutta
-Shihan Gao
-
 ======================= Environment & Dependencies ========================
 Coding Environment:
 	Google Colab Python 3 Notebook
